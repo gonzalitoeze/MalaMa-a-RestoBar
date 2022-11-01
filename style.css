@@ -1,12 +1,17 @@
-* {
+/* * {
     padding: 0px;
     margin: 0px;
-}
-html, body {
+} */
+body {
+    margin: 0;
+    padding: 0;
     background-image: url("img/new1.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-position: top;
+    display: flex;
+    flex-wrap: wrap;
     width: 100%;
     letter-spacing: 0.5px;
     scroll-behavior: smooth;
