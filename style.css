@@ -15,7 +15,7 @@ body {
     width: 100%;
     letter-spacing: 0.5px;
     scroll-behavior: smooth;
-    min-width: 500px;
+    min-width: 600px;
 }
 header{
     height: auto;
